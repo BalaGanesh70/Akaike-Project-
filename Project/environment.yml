@@ -1,0 +1,10 @@
+name: news_tts_app
+dependencies:
+  - python=3.8
+  - pip:
+    - flask
+    - streamlit
+    - requests
+    - beautifulsoup4
+    - textblob
+    - pyttsx3
